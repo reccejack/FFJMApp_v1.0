@@ -1,4 +1,4 @@
-Greetings.  I am a junior developer in Python and C#.  
+Developmental stages of the FFJM app, using Python 3 
 
 Pending projects:
 Freefall Parachuting calculations (HALO/HAHO)
